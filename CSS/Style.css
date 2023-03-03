@@ -28,10 +28,10 @@ main img {
 .text {
     padding: 10px;
 }
-main h3 {
+main .text h3 {
     font-size: 20px;
 }
-main p {
+main .text p {
     color: #777;
     padding-bottom: 20px;
 }
