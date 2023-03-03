@@ -5,25 +5,15 @@ body {
 main {
     text-align: center;
     background-color: white;
-    width: 280px;
+    max-width: 280px;
     border-radius: 5%;
     margin: 100px auto 100px;
     padding: 0 10px;
-}
-@media (max-width: 767px){
-    main {
-        width: 300px; ;
-    }
 }
 main img {
     width: 260px;
     border-radius: 5%;
     margin-top: 20px;
-}
-@media (max-width: 767px){
-    main img {
-        width: 280px; ;
-    }
 }
 .text {
     padding: 10px;
