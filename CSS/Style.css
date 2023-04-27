@@ -15,6 +15,7 @@ main {
 }
 main img {
     width: 260px;
+    height: 280px;
     border-radius: 10px;
     margin-top: 20px;
 }
@@ -27,5 +28,5 @@ main .text h3 {
 }
 main .text p {
     color: hsl(220, 15%, 55%);
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
