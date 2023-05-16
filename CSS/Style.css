@@ -25,7 +25,7 @@ main img {
 main .text h3 {
     font-size: 22px;
     color: hsl(218, 44%, 22%);
-    margin-top: 0;
+    margin-top: 20px;
 }
 main .text p {
     color: hsl(220, 15%, 55%);
