@@ -6,17 +6,20 @@ body {
     place-content: center; 
     font-size: 15px;
 }
+h1 {
+    display: none;
+}
 main {
     text-align: center;
     background-color: white;
     max-width: 280px;
-    border-radius: 10px;
+    border-radius: 12px;
     padding: 0 10px;
 }
 main img {
     width: 270px;
     height: 285px;
-    border-radius: 10px;
+    border-radius: 12px;
     margin-top: 15px;
 }
 .text {
@@ -29,5 +32,14 @@ main .text h3 {
 }
 main .text p {
     color: hsl(220, 15%, 55%);
+    line-height: 1.5;
     padding-bottom: 10px;
+}
+footer .attribution {
+    padding: 10px;
+    max-width: 280px;
+    font-size: 10px;
+}
+footer .attribution a{
+    color: hsl(217, 59%, 49%);
 }
